@@ -10,7 +10,7 @@ Welcome to math module's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   module
+   modules
 
 Indices and tables
 ==================
